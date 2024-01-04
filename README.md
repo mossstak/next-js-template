@@ -1,1 +1,1 @@
-#Next JS Template
+# Next JS Template
